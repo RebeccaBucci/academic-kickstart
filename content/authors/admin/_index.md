@@ -24,9 +24,9 @@ interests:
 - Policing
 - Risk Perceptions
 - Causal Analysis
--Social Control
--Adolescent Development
--Adolescent Delinquency
+- Social Control
+- Adolescent Development
+- Adolescent Delinquency
 
 education:
   courses:
