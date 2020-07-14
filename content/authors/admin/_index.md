@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Criminology 
+    institution: Pennsylvania State University
+    year: (Expected) 2021
+  - course: MA in Criminology
+    institution: Pennsylvania State University
+    year: 2017
+  - course: BA in Sociology
+    institution: University of Massachusetts Amherst
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
