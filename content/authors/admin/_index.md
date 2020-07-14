@@ -10,26 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate (Criminology)
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Penn State University
-  url: "https://sociology.la.psu.edu/people/rpb5358/"
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  -Policing
-  -Risk Perceptions
-  -Adolescent Delinquency
-  -Adolescent Development
-  -Social Control
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: 
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,4 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Rebecca Bucci is a PhD Candidate in Criminology & Sociology at Penn State University.
+
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
