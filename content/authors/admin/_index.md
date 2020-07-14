@@ -18,12 +18,15 @@ organizations:
   url: "https://sociology.la.psu.edu/people/rpb5358"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include policing, risk perceptions, social control, adolescent development and delinquency.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Policing
+- Risk Perceptions
+- Causal Analysis
+-Social Control
+-Adolescent Development
+-Adolescent Delinquency
 
 education:
   courses:
