@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Pennsylvania"
   date_start = "2015-08-01"
   date_end = ""
-  description = """
+  description = ""
 
 
 [[experience]]
