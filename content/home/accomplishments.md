@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Research and Graduate Studies Office (RGSO) Dissertation Support Award"
   url = ""
   certificate_url = ""
-  date_start = "11 2019"
+  date_start = "2019-11-01"
   date_end = ""
   description = ""
 
@@ -32,9 +32,9 @@ date_format = "Jan 2006"
   organization = "Criminal Justice Research Center Penn State"
   organization_url = "https://justicecenter.la.psu.edu/"
   title = "Graduate Student Research Award"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  url = ""
   certificate_url = ""
-  date_start = "05 2019"
+  date_start = "2019-05-01"
   date_end = ""
   description = ""
   
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Honorable Mention, Penn State 10th Annual Criminology Student Paper Competition"
   url = ""
   certificate_url = ""
-  date_start = "04 2019"
+  date_start = "2019-04-01"
   date_end = ""
   description = ""
 
