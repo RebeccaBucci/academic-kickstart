@@ -14,7 +14,7 @@
   weight = 12
   
 [[main]]
-  name = "Recent/Upcoming Talks"
+  name = "Talks"
   url = "#talks"
   weight = 30
   
