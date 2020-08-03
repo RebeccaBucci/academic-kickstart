@@ -8,11 +8,11 @@ active = true  # Activate this widget? true/false
 weight = 41  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Pubertal Timing and Adolescent Delinquency"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "Pubertal Timing and Adolescent Delinquency"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -28,7 +28,7 @@ subtitle = "Pubertal Timing and Adolescent Delinquency"
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "Rebecca Bucci, Jeremy Staff"
     exclude_featured = false
   
 [design]
