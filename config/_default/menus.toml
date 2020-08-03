@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Experience"
-  url = "#accomplishments"
+  url = "#experience"
   weight = 12
   
 [[main]]
-  name = "Recent & Upcoming Talks"
+  name = "Recent/Upcoming Talks"
   url = "#featured"
   weight = 30
   
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 20
 
 [[main]]
