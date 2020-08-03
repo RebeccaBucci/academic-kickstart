@@ -1,8 +1,11 @@
 ---
 title: Recent & Upcoming Talks
 
+American Sociological Association
+
+
 # View.
-   1 = List
+#   1 = List
 #   2 = Compact
 #   3 = Card
 view: 2
