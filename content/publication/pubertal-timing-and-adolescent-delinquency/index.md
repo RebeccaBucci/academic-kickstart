@@ -1,7 +1,7 @@
 ---
 
 title: "Pubertal Timing and Adolescent Delinquency"
-authors: Rebecca Bucci, Jeremy Staff
+authors: [Rebecca Bucci, Jeremy Staff]
 date: "2020-05-22T00:00:00-00:00Z"
 doi: ""
 
