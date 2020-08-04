@@ -14,5 +14,5 @@ header:
   image: ""
 ---
 
-hugo new --kind publication publication/<my-publication>
+
   
