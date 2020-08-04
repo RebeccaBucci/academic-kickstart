@@ -12,6 +12,9 @@ view: 4
 header:
   caption: ""
   image: ""
+  
+ hugo new --kind publication publication/<pubertal-timing-and-adolescent-delinquency> 
+  
 ---
 
   
