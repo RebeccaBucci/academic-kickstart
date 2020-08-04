@@ -6,7 +6,7 @@ date: "2020-05-22T00:00:00-00:00Z"
 doi: "https://doi.org/10.1111/1745-9125.12245"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00-00:00Z"
+publishDate: "2020-05-22T00:00:00-00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
