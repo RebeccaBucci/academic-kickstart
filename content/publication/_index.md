@@ -1,6 +1,4 @@
 ---
- hugo new --kind publication publication/<pubertal-timing-and-adolescent-delinquency> 
-
 title: Publications
 
 # View.
