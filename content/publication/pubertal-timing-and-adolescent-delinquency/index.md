@@ -3,7 +3,7 @@
 
 title: "Pubertal Timing and Adolescent Delinquency"
 authors: [Rebecca Bucci, Jeremy Staff]
-date: 2020-05-22T17:56:52-04:00
+date: "2020-05-22T17:56:52-04:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: 2020-08-04T17:56:52-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: "2"
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Criminology"
