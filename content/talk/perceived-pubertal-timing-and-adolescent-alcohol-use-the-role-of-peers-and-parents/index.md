@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Perceived Pubertal Timing and Adolescent Alcohol Use the Role of Peers and Parents"
+title: "Perceived Pubertal Timing and Adolescent Alcohol Use: The Role of Peers and Parents"
 event: "American Sociological Association"
 event_url:
 location:
