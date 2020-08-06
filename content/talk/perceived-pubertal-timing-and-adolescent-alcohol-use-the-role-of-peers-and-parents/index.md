@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Perceived Pubertal Timing and Adolescent Alcohol Use the Role of Peers and Parents"
-event:
+event: "American Sociological Association"
 event_url:
 location:
 address:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-05T21:47:53-04:00
-date_end: 2020-08-05T21:47:53-04:00
+date: 2020-08-10T00:00:00-00:00
+#date_end: 2020-08-05T21:47:53-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-05T21:47:53-04:00
 
-authors: []
+authors: [Rebecca Bucci, Jeremy Staff, Jennifer L. Maggs, Lorah D. Dorn]
 tags: []
 
 # Is this a featured talk? (true/false)
