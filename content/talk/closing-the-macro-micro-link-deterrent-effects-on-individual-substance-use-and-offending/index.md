@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-05T21:56:41-04:00
 
-authors: []
+authors: [Rebecca Bucci]
 tags: []
 
 # Is this a featured talk? (true/false)
