@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Closing the Macro Micro Link Deterrent Effects on Individual Substance Use and Offending"
-event:
+title: "Closing the Macro Micro Link: Deterrent Effects on Individual Substance Use and Offending"
+event: "Criminology Forum - Pennsylvania State University" 
 event_url:
-location:
+location: "State College, PA"
 address:
   street:
   city:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-05T21:56:41-04:00
-date_end: 2020-08-05T21:56:41-04:00
+date: 2019-12-09T12:00:00-00:00
+#date_end: 2020-08-05T21:56:41-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
