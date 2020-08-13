@@ -4,7 +4,7 @@
 title: "Policy Shifts and Individual Perception Formation: Evidence from a Hot Spots Intervention"
 event: APPAM
 event_url:
-location:
+location: Washington, D.C. (Virtual Conference)
 address:
   street:
   city:
