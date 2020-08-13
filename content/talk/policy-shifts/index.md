@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Policy Shifts and Individual Perception Formation: Evidence from a Hot Spots Intervention"
-event:
+event: APPAM
 event_url:
 location:
 address:
