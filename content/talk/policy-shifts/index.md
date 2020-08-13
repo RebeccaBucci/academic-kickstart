@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Policy Shifts"
+title: "Policy Shifts and Individual Perception Formation: Evidence from a Hot Spots Intervention"
 event:
 event_url:
 location:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-13T18:16:26-04:00
-date_end: 2020-08-13T18:16:26-04:00
+date: 2020-11-13T12:05:00-00:00
+#date_end: 2020-08-13T18:16:26-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-13T18:16:26-04:00
 
-authors: []
+authors: [Rebecca Bucci, Thomas Loughran]
 tags: []
 
 # Is this a featured talk? (true/false)
