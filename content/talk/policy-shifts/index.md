@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Closing the Macro Micro Link Deterrent Effects on Individual Substance Use and Offending"
+title: "Policy Shifts"
 event:
 event_url:
 location:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-05T21:56:41-04:00
-date_end: 2020-08-05T21:56:41-04:00
+date: 2020-08-13T17:53:09-04:00
+date_end: 2020-08-13T17:53:09-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-08-05T21:56:41-04:00
+publishDate: 2020-08-13T17:53:09-04:00
 
 authors: []
 tags: []
