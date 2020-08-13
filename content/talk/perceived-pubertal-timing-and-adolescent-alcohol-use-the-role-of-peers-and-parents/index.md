@@ -4,7 +4,7 @@
 title: "Perceived Pubertal Timing and Adolescent Alcohol Use: The Role of Peers and Parents"
 event: "American Sociological Association"
 event_url:
-location:
+location: San Francisco, CA (Virtual Conference)
 address:
   street:
   city:
