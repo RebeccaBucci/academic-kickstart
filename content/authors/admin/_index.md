@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Rebecca is a Postdoctoral Fellow in Sociology at Harvard University. She recently recieved her PhD in Criminology at Penn State. Her research interests include neighborhood effects, policing, risk perceptions, social control, and adolescent development and delinquency.
+Rebecca is a Postdoctoral Fellow in Sociology at Harvard University. She recently received her PhD in Criminology at Penn State. Her research interests include neighborhood effects, policing, risk perceptions, social control, and adolescent development and delinquency.
