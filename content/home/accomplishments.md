@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Time-Sharing Experiments in the Social Sciences"
+  organization_url = "https://tessexperiments.org/"
+  title = "Young Investigator Competition"
+  url = "https://tessexperiments.org/html/yic.html"
+  certificate_url = ""
+  date_start = "2021-01-07"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Pennsylvania State University"
+  organization_url = ""
+  title = "12th Annural Criminology Student Paper Competition - 1st Place"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-04"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Pennsylvania State University"
   organization_url = ""
   title = "Research and Graduate Studies Office (RGSO) Dissertation Support Award"
