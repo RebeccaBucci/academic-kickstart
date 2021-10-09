@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Pubertal Timing and Adolescent Alcohol Use"
+title: "Pubertal Timing and Adolescent Alcohol Use: The Mediating Role of Parental and Peer Influences"
 authors: []
 date: 2021-10-09T09:26:47-04:00
 doi: ""
