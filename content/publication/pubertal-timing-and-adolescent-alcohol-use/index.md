@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Using intergenerational, prospective data at ages 9 months, 7, 11, and 14 years from the nationally representative United Kingdom Millennium Cohort Study, this interdisciplinary study unpacks why 14-year-old adolescents with early perceived pubertal timing (PT) were more likely to drink alcohol (ever, frequent, and binge drinking) compared to those whose PT was on-time or late (5,757 girls, 5,799 boys; 80% White, 10% Asian, 3% Black, and 7% Other British). Parents allowed drinking among 22% (18%) of early PT girls (boys) compared to 11% of late PT adolescents; formal mediation models showed differences by PT in parent permissiveness and gains in alcohol-using friends primarily explained age 14 PT-drinking associations. Parental alcohol permissiveness should be a key prevention target for early PT adolescents."
+summary: "This interdisciplinary study unpacks why 14-year-old adolescents with early perceived pubertal timing (PT) were more likely to drink alcohol (ever, frequent, and binge drinking) compared to those whose PT was on-time or late (5,757 girls, 5,799 boys)."
 
 tags: []
 categories: []
