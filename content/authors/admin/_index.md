@@ -10,17 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate (Criminology)
+role: Postdoctoral Fellow (Sociology)
 
 # Organizations/Affiliations
 organizations:
-- name: Penn State University
-  url: "https://sociology.la.psu.edu/people/rpb5358"
+- name: Harvard University
+  url: "https://sociology.fas.harvard.edu/people/rebecca-bucci"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include policing, risk perceptions, social control, adolescent development and delinquency.
+bio: My research interests include neighborhoods, policing, risk perceptions, social control, adolescent development and delinquency.
 
 interests:
+- Neighborhoods & Crime
 - Policing
 - Risk Perceptions
 - Causal Analysis
@@ -32,7 +33,7 @@ education:
   courses:
   - course: PhD in Criminology 
     institution: Pennsylvania State University
-    year: (Expected) 2021
+    year: 2021
   - course: MA in Criminology
     institution: Pennsylvania State University
     year: 2017
@@ -47,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "rpb5358@psu.edu".
+  link: '#contact'  # For a direct email link, use "rebeccabucci@fas.harvard.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RebeccaBucci21
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Rebecca is a doctoral candidate in Criminology at Penn State. Her research interests include policing, risk perceptions, social control, and adolescent development and delinquency.
+Rebecca is a Postdoctoral Fellow in Sociology at Harvard University. She recently recieved her PhD in Criminology at Penn State. Her research interests include neighborhood effects, policing, risk perceptions, social control, and adolescent development and delinquency.
