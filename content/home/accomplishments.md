@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Pennsylvania State University"
   organization_url = ""
-  title = "12th Annural Criminology Student Paper Competition - 1st Place"
+  title = "12th Annual Criminology Student Paper Competition - 1st Place"
   url = ""
   certificate_url = ""
   date_start = "2021-01-04"
