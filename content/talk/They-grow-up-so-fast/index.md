@@ -3,7 +3,7 @@
 
 title: "They Grow Up So Fast: Pubertal Timing, Risk Perception and Crime with Rebecca Bucci"
 event: The Criminology Academy  
-event_url:https://thecrimacademy.podbean.com/e/ep-39-they-grow-up-so-fast-pubertal-timing-risk-perception-and-crime-with-rebecca-bucci/
+event_url: https://thecrimacademy.podbean.com/e/ep-39-they-grow-up-so-fast-pubertal-timing-risk-perception-and-crime-with-rebecca-bucci/
 location: 
 address:
   street:
