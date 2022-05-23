@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Policy Shifts and Individual Perception Formation: Evidence from a Hot Spots Intervention"
-event: APPAM
+title: "A Multi-Cohort Study of Exposure to Gun Violence over 25 Years in the Life Course"
+event: ASC
 event_url:
-location: Washington, D.C. (Virtual Conference)
+location: Chicago, I.L.
 address:
   street:
   city:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-13T12:05:00-00:00
-#date_end: 2020-08-13T18:16:26-04:00
+date: 2021-11-17T12:05:00-00:00
+#date_end: 2021-11-17T18:16:26-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-08-13T18:16:26-04:00
+publishDate: 2021-11-17T18:16:26-04:00
 
-authors: [Rebecca Bucci, Thomas Loughran]
+authors: [Rebecca Bucci, David S. Kirk, Robert J. Sampson]
 tags: []
 
 # Is this a featured talk? (true/false)
