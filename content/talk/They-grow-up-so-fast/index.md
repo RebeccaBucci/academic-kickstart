@@ -1,10 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Policy Shifts and Individual Perception Formation: Evidence from a Hot Spots Intervention"
-event: APPAM
-event_url:
-location: Washington, D.C. (Virtual Conference)
+title: "They Grow Up So Fast: Pubertal Timing, Risk Perception and Crime with 
+Rebecca Bucci"
+event: The Criminology Academy  
+event_url:https://thecrimacademy.podbean.com/e/ep-39-they-grow-up-so-fast-pubertal-timing-risk-perception-and-crime-with-rebecca-bucci/
+location: 
 address:
   street:
   city:
@@ -16,14 +17,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-13T12:05:00-00:00
-#date_end: 2020-08-13T18:16:26-04:00
+date: 2022-02-28T12:05:00-00:00
+#date_end: 2022-02-28T18:16:26-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-08-13T18:16:26-04:00
+publishDate: 2022-02-28T18:16:26-04:00
 
-authors: [Rebecca Bucci, Thomas Loughran]
+authors: [Rebecca Bucci]
 tags: []
 
 # Is this a featured talk? (true/false)
