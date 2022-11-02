@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://journals-sagepub-com.ezp-prod1.hul.harvard.edu/doi/full/10.1177/23780231221110124
 url_code:
 url_dataset:
 url_poster:
