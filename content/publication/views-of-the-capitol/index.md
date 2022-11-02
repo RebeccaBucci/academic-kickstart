@@ -7,7 +7,7 @@ date: 2022-07-00T09:01:01-04:00
 doi: "https://doi.org/10.1177/23780231221110124"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-10-09T09:00:00-00:00
+publishDate: "2020-05-22T00:00:00-00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
