@@ -3,7 +3,7 @@
 title: "Visualizing How Race, Support for Black Lives Matter, and Gun Ownership Shape Views of the U.S. Capitol Insurrection of January 6, 2021"
 authors: [Rebecca Bucci, David S. Kirk, Robert J. Sampson]
 date: "2022-07-18T00:00:00-00:00Z"
-doi: "https://doi.org/10.1111/1745-9125.12245"
+doi: "https://doi.org/10.1177/23780231221110124"
  
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-22T00:00:00-00:00Z"
@@ -18,10 +18,10 @@ publication_types: ["2"]
 publication: "Socius"
 publication_short: ""
 
-abstract: "Early pubertal timing (PT) increases the risk of adolescent delinquency, whereas late development reduces this risk; however, the mechanisms explaining PT effects on delinquency remain elusive. Theoretically, the PT–delinquency relationship is as a result of changes in parental supervision, peer affiliations, and body‐image perceptions or is a spurious reflection of early life risk factors. Using intergenerational data from the Millennium Cohort Study, a prospective sample of children followed from infancy to age 14 years in the United Kingdom (N  = 11,556 parent–child pairs), we find that for both boys and girls, early PT is associated with heightened risks of delinquency, relative to on‐time puberty, whereas late PT is associated with lower risks, even after controlling for a large share of childhood confounders. Mediation test results indicate that changes in parental supervision, peer affiliations, and body‐image perceptions from ages 11 to 14 partly account for associations between off‐time PT and delinquency. Our findings are most consistent with criminological theories in which the psychosocial, familial, and peer group changes that accompany off‐time pubertal development are emphasized. Changes in peer substance use, in particular, were the primary explanatory factor for the relationships between early and late PT and delinquency, for both boys and girls."
+abstract: "Protest movements linked to racial inequality in policing and antigovernment sentiment have roiled the United States in recent years. In this visualization, the authors examine how race, support for Black Lives Matter (BLM), and gun ownership predict views about the political uprising of January 6, 2021, at the U.S. Capitol. On the basis of a 2021 survey from a long-term longitudinal study, the authors show that views of the Capitol insurrection do not vary by race, contrary to expectations. However, there is a positive association between support for BLM and views of January 6 participants as “extremists,” especially among Whites, independent of age, sex, respondent’s education, parental education, and childhood neighborhood poverty. Race and gun ownership also interact, with White gun owners an outlier in viewing the insurrection more favorably. Black gun owners, on the contrary, viewed it most negatively."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this visualization, the authors examine how race, support for Black Lives Matter (BLM), and gun ownership predict views about the political uprising of January 6, 2021, at the U.S. Capitol."
 
 tags: []
 categories: []
