@@ -2,7 +2,7 @@
 
 title: "Visualizing How Race, Support for Black Lives Matter, and Gun Ownership Shape Views of the U.S. Capitol Insurrection of January 6, 2021"
 authors: [Rebecca Bucci, David S. Kirk, Robert J. Sampson]
-date: "2022-07-18T00:00:00-00:00Z"
+date: "2022-07-18T00:00:00-00:00"
 doi: "https://doi.org/10.1177/23780231221110124"
  
 # Schedule page publish date (NOT publication's date).
