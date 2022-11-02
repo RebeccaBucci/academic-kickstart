@@ -3,7 +3,7 @@
 
 title: "Cohort Profile: Project on Human Development in Chicago Neighborhoods and Its Additions (PHDCN+)"
 authors: [Robert J. Sampson, David S. Kirk & Rebecca Bucci]
-date: 2021-12-12T09:26:47-04:00
+date: 2022-06-06T09:26:47-04:00
 doi: "https://doi.org/10.1007/s40865-022-00203-0"
 
 # Schedule page publish date (NOT publication's date).
