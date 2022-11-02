@@ -3,7 +3,7 @@
 
 title: "Changes in Externalizing Behaviors After Children First Have an Alcoholic Drink and First Drink Heavily"
 authors: [Jeremy Staff, Jennifer L. Maggs, Rebecca Bucci, Jessica Mongilio]
-date: 2020-08-05T21:26:43-04:00
+date: 2019-05-31T21:26:43-04:00
 doi: "https://doi.org/10.15288/jsad.2019.80.472"
 
 # Schedule page publish date (NOT publication's date).
