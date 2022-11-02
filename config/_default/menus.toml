@@ -11,7 +11,7 @@
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 12
+  weight = 32
   
 [[main]]
   name = "Talks"
