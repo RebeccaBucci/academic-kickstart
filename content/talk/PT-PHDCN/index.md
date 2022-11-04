@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Multi-Cohort Study of Exposure to Gun Violence over 25 Years in the Life Course"
+title: "Pubertal Timing and Delinquency: Offending Trajectories from Adolescence to Adulthood"
 event: ASC
-event_url:
-location: Chicago, I.L.
+event_url: https://asc41.com/events/2022-asc-annual-meeting/
+location: Atlanta, G.A.
 address:
   street:
   city:
@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-11-17T12:05:00-00:00
-#date_end: 2021-11-17T18:16:26-04:00
+date: 2022-11-18T11:00:00-00:00
+#date_end: 2022-11-18T12:20:00-00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-11-17T18:16:26-04:00
 
-authors: [Rebecca Bucci, David S. Kirk, Robert J. Sampson]
+authors: [Rebecca Bucci]
 tags: []
 
 # Is this a featured talk? (true/false)
