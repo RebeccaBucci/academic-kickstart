@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Test"
+title: "'Addressing the ‘Dirty Little Secret’ in Deterrence: Testing the Effects of Increased Police Presence on Perceptions of Arrest Risk"
 authors: [Rebecca Bucci]
-date: 2022-06-06T09:26:47-04:00
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
