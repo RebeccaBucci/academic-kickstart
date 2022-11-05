@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 42  # Order that this section will appear.
 
-title = "Working Papers - "
+title = "Working Papers"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "workingpapers"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
