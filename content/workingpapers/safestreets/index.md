@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "'Addressing the ‘Dirty Little Secret’ in Deterrence: Testing the Effects of Increased Police Presence on Perceptions of Arrest Risk"
+title: "Addressing the ‘Dirty Little Secret’ in Deterrence: Testing the Effects of Increased Police Presence on Perceptions of Arrest Risk"
 authors: [Rebecca Bucci]
 date: ""
 doi: ""
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Email rebeccabucci@fas.harvard.edu for a copy of the current manuscript."
 
 # Summary. An optional shortened abstract.
 summary: ""
