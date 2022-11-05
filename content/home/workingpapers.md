@@ -8,7 +8,7 @@ active = true # Activate this widget? true/false
 weight = 42  # Order that this section will appear.
 
 title = "Working Papers"
-subtitle = ""
+subtitle = "Email rebeccabucci@fas.harvard.edu for a copy of the current manuscript."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
