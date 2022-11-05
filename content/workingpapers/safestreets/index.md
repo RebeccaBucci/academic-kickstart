@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Email rebeccabucci@fas.harvard.edu for a copy of the current manuscript."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
