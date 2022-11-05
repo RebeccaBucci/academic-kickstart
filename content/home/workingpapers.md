@@ -13,7 +13,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "workingpapers"
+  page_type = "publications"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -28,7 +28,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "Working Papers"
     author = ""
   
 [design]
