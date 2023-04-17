@@ -3,11 +3,11 @@
 
 title: "Addressing the ‘Dirty Little Secret’ of Deterrence: Testing the Effects of Increased Police Presence on Perceptions of Arrest Risk"
 authors: [Rebecca Bucci]
-date: 2022-10-04T01:26:47-04:00
+date: 2022-04-09T01:26:47-04:00
 doi: "https://doi.org/10.1007/s10940-023-09570-3"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-10-04T09:00:00-00:00
+publishDate: 2022-04-09T09:00:00-00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
