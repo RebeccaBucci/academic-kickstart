@@ -5,6 +5,7 @@ title: "Addressing the ‘Dirty Little Secret’ of Deterrence: Testing the Effe
 authors: [Rebecca Bucci]
 date: 2023-04-09T01:26:47-04:00
 doi: "https://doi.org/10.1007/s10940-023-09570-3"
+url_pdf: https://rdcu.be/c9vls 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-04-09T09:00:00-00:00
