@@ -4,7 +4,8 @@ title: "Visualizing How Race, Support for Black Lives Matter, and Gun Ownership 
 authors: [Rebecca Bucci, David S. Kirk, Robert J. Sampson]
 date: "2022-07-18T00:00:00-00:00"
 doi: "https://doi.org/10.1177/23780231221110124"
- 
+url_pdf:https://journals.sagepub.com/doi/pdf/10.1177/23780231221110124
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-22T00:00:00-00:00Z"
 
@@ -35,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:https://journals.sagepub.com/doi/pdf/10.1177/23780231221110124
 url_code:
 url_dataset:
 url_poster:
