@@ -5,6 +5,7 @@ title: "Cohort Profile: Project on Human Development in Chicago Neighborhoods an
 authors: [Robert J. Sampson, David S. Kirk & Rebecca Bucci]
 date: 2022-06-06T09:26:47-04:00
 doi: "https://doi.org/10.1007/s40865-022-00203-0"
+url_pdf: https://rdcu.be/c96Ka
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-10-09T09:00:00-00:00
@@ -44,7 +45,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://rdcu.be/c96Ka
 url_code:
 url_dataset:
 url_poster:
