@@ -4,7 +4,7 @@
 title: "Testing the Effects of Increased Police Presence on Perceptions of Arrest Risk"
 event: UNLV Department of CJ - Journal Club
 event_url: https://www.unlv.edu/criminaljustice 
-location: Las Vegas, NV
+location: Las Vegas, N.V.
 address:
   street:
   city:
